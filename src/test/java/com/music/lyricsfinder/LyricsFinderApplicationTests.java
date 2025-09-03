@@ -1,4 +1,4 @@
-package com.music.lyrics_finder;
+package com.music.lyricsfinder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
